@@ -1,0 +1,7 @@
+*.log
+.vagrant
+.project
+node_modules
+bin
+dist
+screenshots

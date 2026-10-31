@@ -1,0 +1,9 @@
+﻿node_modules/
+dist/
+build/
+.env
+.playwright-mcp/
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
