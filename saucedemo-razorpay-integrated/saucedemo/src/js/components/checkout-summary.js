@@ -5,7 +5,7 @@ import { InventoryData } from '../data/inventory-data.js';
 import { Credentials } from './credentials.js';
 import { ShoppingCart } from './shopping-cart.js';
 
-const RAZORPAY_BACKEND_URL = 'http://localhost:5000';
+const RAZORPAY_BACKEND_URL = 'https://payment-integration-bay.vercel.app';
 
 class SummaryItem extends Component {
 
